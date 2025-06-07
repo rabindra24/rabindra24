@@ -1,66 +1,75 @@
-<!-- GitHub README with Modern Design -->
+<h1 align="center">Hey 👋, I'm Rabindra Nath Mahato</h1>
 
-<h1 align="center">🚀 Rabindra Nath Mahato</h1>
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Full+Stack+Developer;React+Native+Engineer;Building+No-Code+Tools;Always+Learning..." />
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="350" />
 </p>
 
 <p align="center">
-  <img src="https://github.com/rabindra24/rabindra24/assets/placeholder-for-your-banner.png" width="100%" style="border-radius: 20px; backdrop-filter: blur(12px); opacity: 0.9;" />
-</p>
-
----
-
-### 🧠 Who Am I?
-
-- ⚙️ Full Stack & React Native Developer
-- 🌐 Creator of tools using **Next.js**, **Node.js**, **Firebase**, and **React Native**
-- 🚀 Currently building: **No-code App Builder** with drag & drop mobile UI
-- 💬 Let's talk tech: APIs, DBs, UIs, UXs, or even weekend side hustles
-
----
-
-### 🛠️ Tech Stack
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,tailwind,ts,js,mongodb,mysql,firebase,figma,vercel" />
+  🚀 Full Stack Developer | 📱 React Native Enthusiast | 🧠 Lifelong Learner  
 </p>
 
 ---
 
-### 🌟 Featured Projects
+### 🧠 About Me
 
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=rabindra24&repo=nextstarter-cli&theme=radical" />
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=rabindra24&repo=nextjs-simple-ecommerce&theme=radical" />
-
-</div>
+- 🛠️ I build full-stack apps using `React Native`, `Next.js`, `Node.js`, `MongoDB`, and `MySQL`.
+- 🔭 Currently working on: a **No-code App Builder** using **React Native + Next.js**
+- 💬 Ask me about: Mobile Dev, API Architecture, Tailwind, Firebase, and UI/UX tips.
+- ✨ Fun Fact: I’m always low-key building side projects at night 🌙
+- 📍 Based in Bengaluru | 💼 Open to freelance gigs
 
 ---
 
-### 📊 GitHub Stats
+### 🧰 Tech Stack
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rabindra24&show_icons=true&theme=radical" width="45%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rabindra24&layout=compact&theme=radical" width="45%" />
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=react,nextjs,reactnative,nodejs,express,tailwind,mongodb,mysql,ts,js,html,css,figma,vercel,firebase" />
 </p>
 
 ---
 
-### 🔗 Let's Connect
+### 🚀 Featured Projects
+
+<table>
+<tr>
+  <td align="center">
+    <a href="https://github.com/rabindra24/nextstarter-cli">
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=rabindra24&repo=spotify&theme=radical" />
+    </a>
+  </td>
+  <td align="center">
+    <a href="https://github.com/rabindra24/nextjs-simple-ecommerce">
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=rabindra24&repo=nextjs-rabindra-kit&theme=radical" />
+    </a>
+  </td>
+</tr>
+</table>
+
+
+---
+
+### 📈 GitHub Stats
 
 <p align="center">
-  <a href="https://linkedin.com/in/rabindra24" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  <img src="https://github-readme-stats.vercel.app/api?username=rabindra24&show_icons=true&theme=radical" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rabindra24&layout=compact&theme=radical" height="180"/>
+</p>
+
+---
+
+### 🔗 Connect with Me
+
+<p align="left">
+  <a href="https://www.linkedin.com/in/rabindra24/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat&logo=linkedin&logoColor=white" />
   </a>
   <a href="mailto:rabindra.dev24@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white" />
   </a>
 </p>
 
 ---
 
 <p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="280" />
+  <img src="https://readme-typing-svg.demolab.com/?lines=I+build+cool+mobile+apps;I+love+React+Native+and+Next.js;Let%27s+code+something+awesome!" />
 </p>
