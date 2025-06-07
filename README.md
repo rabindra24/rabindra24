@@ -34,7 +34,7 @@
 <tr>
   <td align="center">
     <a href="https://github.com/rabindra24/nextstarter-cli">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=rabindra24&repo=spotifyi&theme=radical" />
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=rabindra24&repo=spotify&theme=radical" />
     </a>
   </td>
   <td align="center">
