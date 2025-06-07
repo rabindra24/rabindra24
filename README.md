@@ -38,12 +38,13 @@
     </a>
   </td>
   <td align="center">
-    <a href="https://github.com/rabindra24">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=rabindra24&repo=no-code-mobile-builder&theme=radical" />
+    <a href="https://github.com/rabindra24/nextjs-simple-ecommerce">
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=rabindra24&repo=nextjs-simple-ecommerce&theme=radical" />
     </a>
   </td>
 </tr>
 </table>
+
 
 ---
 
