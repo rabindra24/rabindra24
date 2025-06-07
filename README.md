@@ -34,12 +34,12 @@
 <tr>
   <td align="center">
     <a href="https://github.com/rabindra24/nextstarter-cli">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=rabindra24&repo=nextstarter-cli&theme=radical" />
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=rabindra24&repo=spotifyi&theme=radical" />
     </a>
   </td>
   <td align="center">
     <a href="https://github.com/rabindra24/nextjs-simple-ecommerce">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=rabindra24&repo=nextjs-simple-ecommerce&theme=radical" />
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=rabindra24&repo=nextjs-rabindra-kit&theme=radical" />
     </a>
   </td>
 </tr>
