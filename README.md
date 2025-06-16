@@ -1,10 +1,6 @@
 <h1 align="center">Hey 👋, I'm Rabindra Nath Mahato</h1>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="350" />
-</p>
-
-<p align="center">
   🚀 Full Stack Developer | 📱 React Native Enthusiast | 🧠 Lifelong Learner  
 </p>
 
@@ -26,28 +22,6 @@
   <img src="https://skillicons.dev/icons?i=react,nextjs,reactnative,nodejs,express,tailwind,mongodb,mysql,ts,js,html,css,figma,vercel,firebase" />
 </p>
 
----
-
-### 🚀 Featured Projects
-
-<table>
-<tr>
-  <td align="center">
-    <a href="https://github.com/rabindra24/nextstarter-cli">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=rabindra24&repo=spotify&theme=radical" />
-    </a>
-  </td>
-  <td align="center">
-    <a href="https://github.com/rabindra24/nextjs-simple-ecommerce">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=rabindra24&repo=nextjs-rabindra-kit&theme=radical" />
-    </a>
-  </td>
-</tr>
-</table>
-
-
----
-
 ### 📈 GitHub Stats
 
 <p align="center">
@@ -63,7 +37,7 @@
   <a href="https://www.linkedin.com/in/rabindra24/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat&logo=linkedin&logoColor=white" />
   </a>
-  <a href="mailto:rabindra.dev24@gmail.com">
+  <a href="mailto:mahato.rabindra.rm@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white" />
   </a>
 </p>
