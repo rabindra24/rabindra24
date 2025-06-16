@@ -22,15 +22,6 @@
   <img src="https://skillicons.dev/icons?i=react,nextjs,reactnative,nodejs,express,tailwind,mongodb,mysql,ts,js,html,css,figma,vercel,firebase" />
 </p>
 
-### 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rabindra24&show_icons=true&theme=radical" height="180" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rabindra24&layout=compact&theme=radical" height="180"/>
-</p>
-
----
-
 ### 🔗 Connect with Me
 
 <p align="left">
